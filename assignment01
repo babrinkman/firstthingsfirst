@@ -1,0 +1,10 @@
+# My third peace of coding in Python, in my second data science course
+
+x = 3 + 2 * 2
+print('x =', x)
+
+y = (3 + 2) * 2
+print('y =', y)
+
+z = x + y
+print('z =', z)
