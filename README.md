@@ -1,1 +1,3 @@
 # firstthingsfirst
+
+During my training this will be the place where I put my first things first....
